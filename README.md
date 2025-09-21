@@ -48,7 +48,7 @@ _**Heaven’s Light is Our Guide**_
 
 | Lab No. | Title | Link |
 | --- | --- | --- |
-| 01 | Study of FCFS Scheduling | [Lab 01](https://github.com/promasarker/ECE-3222_2110049/blob/main/Lab_reports/Lab1.md) |
+| 01 | Study of FCFS Scheduling | [Lab 01](https://github.com/FarhanaIslamSaima/ECE-3222_2110047/blob/master/LabReports/lab-01.md) |
 
 </div>
 
