@@ -49,8 +49,8 @@ _**Heaven’s Light is Our Guide**_
 | Lab No. | Title | Link |
 | --- | --- | --- |
 | 01 | Study of FCFS Scheduling | [Lab 01](https://github.com/FarhanaIslamSaima/ECE-3222_2110047/blob/master/LabReports/lab-01.md) |
-| 01 | Study of SJF Scheduling | [Lab 02](https://github.com/FarhanaIslamSaima/ECE-3222_2110047/blob/master/LabReports/lab-02.md) |
-
+| 02 | Study of SJF Scheduling | [Lab 02](https://github.com/FarhanaIslamSaima/ECE-3222_2110047/blob/master/LabReports/lab-02.md) |
+| 03 | Study of Round Robin Scheduling method | [Lab 03](https://github.com/FarhanaIslamSaima/ECE-3222_2110047/blob/master/LabReports/lab-03.md) |
 </div>
 
 </div>
