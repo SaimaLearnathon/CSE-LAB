@@ -51,6 +51,7 @@ _**Heaven’s Light is Our Guide**_
 | 01 | Study of FCFS Scheduling | [Lab 01](https://github.com/FarhanaIslamSaima/ECE-3222_2110047/blob/master/LabReports/lab-01.md) |
 | 02 | Study of SJF Scheduling | [Lab 02](https://github.com/FarhanaIslamSaima/ECE-3222_2110047/blob/master/LabReports/lab-02.md) |
 | 03 | Study of Round Robin Scheduling method | [Lab 03](https://github.com/FarhanaIslamSaima/ECE-3222_2110047/blob/master/LabReports/lab-03.md) |
+| 04 | Study of Banker's and Priority Scheduling algorithm | [Lab 04](https://github.com/FarhanaIslamSaima/ECE-3222_2110047/blob/master/LabReports/lab4.md) |
 </div>
 
 </div>
