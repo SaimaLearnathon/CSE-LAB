@@ -48,12 +48,12 @@ _**Heaven’s Light is Our Guide**_
 
 | Lab No. | Title | Link |
 | --- | --- | --- |
-| 01 | Study of FCFS Scheduling | [Lab 01](https://github.com/FarhanaIslamSaima/ECE-3222_2110047/blob/master/LabReports/lab-01.md) |
-| 02 | Study of SJF Scheduling | [Lab 02](https://github.com/FarhanaIslamSaima/ECE-3222_2110047/blob/master/LabReports/lab-02.md) |
-| 03 | Study of Round Robin Scheduling method | [Lab 03](https://github.com/FarhanaIslamSaima/ECE-3222_2110047/blob/master/LabReports/lab-03.md) |
-| 4.1 | Study of Banker's algorithm | [Lab 4.1](https://github.com/FarhanaIslamSaima/ECE-3222_2110047/blob/master/LabReports/lab-4.1.md) |
-| 4.2 | Study of Priority Scheduling algorithm | [Lab 4.2](https://github.com/FarhanaIslamSaima/ECE-3222_2110047/blob/master/LabReports/lab-4.2.md) |
-| 5 | Study of Contiguous Memory Allocation algorithm | [Lab 05](https://github.com/FarhanaIslamSaima/ECE-3222_2110047/blob/master/LabReports/lab-05.md) |
+| 01 | Study of FCFS Scheduling | [Lab 01](https://github.com/SaimaLearnathon/CSE-LAB/blob/master/LabReports/lab-01.md) |
+| 02 | Study of SJF Scheduling | [Lab 02](https://github.com/SaimaLearnathon/CSE-LAB/blob/master/LabReports/lab-02.md) |
+| 03 | Study of Round Robin Scheduling method | [Lab 03](https://github.com/SaimaLearnathon/CSE-LAB/blob/master/LabReports/lab-03.md) |
+| 4.1 | Study of Banker's algorithm | [Lab 4.1](https://github.com/SaimaLearnathon/CSE-LAB/blob/master/LabReports/lab-4.1.md) |
+| 4.2 | Study of Priority Scheduling algorithm | [Lab 4.2](https://github.com/SaimaLearnathon/CSE-LAB/blob/master/LabReports/lab-4.2.md) |
+| 5 | Study of Contiguous Memory Allocation algorithm | [Lab 05](https://github.com/SaimaLearnathon/CSE-LAB/blob/master/LabReports/lab-05.md) |
 </div>
 
 </div>
